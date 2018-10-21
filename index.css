@@ -3,6 +3,8 @@ body {
     width: 960px;
     height: 500px;
     position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   #canvas {
   }
@@ -28,8 +30,6 @@ body {
     font-weight: bold;
   }
   .tooltip_value {
-    margin-left: 20px;
-    float: right;
   }
 
   .key {
@@ -48,4 +48,13 @@ body {
       display: flex;
       justify-content: space-around;
       width: 100vw;
+  }
+
+  #drawer {
+      position: fixed;
+      background-color: lightgrey;
+      width: 300px;
+      height: 100vh;
+      left: -300px;
+      top: 0;
   }
