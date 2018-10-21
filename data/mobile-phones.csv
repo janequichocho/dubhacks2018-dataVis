@@ -1,265 +1,265 @@
-"""Country Name""","""Country Code""","""Number of mobile cellular subscriptions in 2017""",Population in 2018,Percentage of mobile subsriptions to population
-Aruba,ABW,NA,"113,648",#VALUE!
-Afghanistan,AFG,23929713,"36,373,176",66%
-Albania,ALB,3497950,"2,934,363",119%
-Algeria,DZA,49873389,"42,008,054",119%
-American Samoa,ASM,NA,"55,641",#VALUE!
-Andorra,AND,80337,"76,965",104%
-Angola,AGO,13323952,"30,774,205",43%
-Antigua and Barbuda,ATG,NA,"93,581",#VALUE!
-Arab World,ARB,376136393,NA,#VALUE!
-Argentina,ARG,61897379,"44,688,864",139%
-Armenia,ARM,3488524,"2,934,152",119%
-Australia,AUS,27553000,"24,772,247",111%
-Austria,AUT,14924340,"8,751,820",171%
-Azerbaijan,AZE,10127000,"9,923,914",102%
-"Bahamas, The",BHS,353540,"392,712",90%
-Bahrain,BHR,2364477,"1,566,993",151%
-Bangladesh,BGD,145113669,"166,368,149",87%
-Barbados,BRB,337791,"291,495",116%
-Belarus,BLR,11415141,"9,452,113",121%
-Belgium,BEL,11961089,"11,498,519",104%
-Belize,BLZ,NA,"374,651",#VALUE!
-Benin,BEN,8773044,"11,458,674",77%
-Bermuda,BMU,64997,"61,352",106%
-Bhutan,BTN,730623,"817,054",89%
-Bolivia,BOL,10963224,"11,215,674",98%
-Bosnia and Herzegovina,BIH,3440085,"3,503,554",98%
-Botswana,BWA,3240589,"2,333,201",139%
-Brazil,BRA,236488548,"210,867,954",112%
-British Virgin Islands,VGB,NA,"34,232",#VALUE!
-Brunei Darussalam,BRN,544732,"434,076",125%
-Bulgaria,BGR,8532908,"7,036,848",121%
-Burkina Faso,BFA,17946375,"19,751,651",91%
-Burundi,BDI,5920612,"11,216,450",53%
-Cabo Verde,CPV,612259,"553,335",111%
-Cambodia,KHM,18572973,"16,245,729",114%
-Cameroon,CMR,19706027,"24,678,234",80%
-Canada,CAN,31458600,"36,626,083",86%
-Caribbean small states,CSS,7735181,NA,#VALUE!
-Cayman Islands,CYM,NA,"57,268",#VALUE!
-Central African Republic,CAF,NA,"4,737,423",#VALUE!
-Central Europe and the Baltics,CEB,128183762,NA,#VALUE!
-Chad,TCD,NA,"15,353,184",#VALUE!
-Channel Islands,CHI,NA,NA,#VALUE!
-Chile,CHL,23013147,"18,197,209",126%
-China,CHN,1474097000,"1,415,045,928",104%
-Colombia,COL,62222011,"49,464,683",126%
-Comoros,COM,446868,"832,347",54%
-"Congo, Dem. Rep.",COD,35270156,"84,004,989",42%
-"Congo, Rep.",COG,5056000,"5,399,895",94%
-Costa Rica,CRI,8840342,"4,905,626",180%
-Cote d'Ivoire,CIV,31747233,"24,905,843",127%
-Croatia,HRV,4315580,"4,164,783",104%
-Cuba,CUB,4613782,"11,014,425",42%
-Curacao,CUW,NA,"149,035",#VALUE!
-Cyprus,CYP,1176801,"1,189,085",99%
-Czech Republic,CZE,12634937,"10,625,250",119%
-Denmark,DNK,6978348,"5,754,356",121%
-Djibouti,DJI,373052,"971,408",38%
-Dominica,DMA,NA,"73,757",#VALUE!
-Dominican Republic,DOM,8769127,"10,606,865",83%
-Early-demographic dividend,EAR,3123591161,NA,#VALUE!
-East Asia & Pacific,EAS,2734184854,NA,#VALUE!
-East Asia & Pacific (excluding high income),EAP,2410319380,NA,#VALUE!
-East Asia & Pacific (IDA & IBRD countries),TEA,2410319380,NA,#VALUE!
-Ecuador,ECU,13881562,"16,863,425",82%
-"Egypt, Arab Rep.",EGY,102958194,"99,375,741",104%
-El Salvador,SLV,9982186,"6,167,147",162%
-Equatorial Guinea,GNQ,NA,"1,313,894",#VALUE!
-Eritrea,ERI,NA,"5,187,948",#VALUE!
-Estonia,EST,1904425,"1,306,788",146%
-Eswatini,SWZ,NA,NA,#VALUE!
-Ethiopia,ETH,62617000,"107,534,882",58%
-Euro area,EMU,416520123,NA,#VALUE!
-Europe & Central Asia,ECS,1114224519,NA,#VALUE!
-Europe & Central Asia (excluding high income),ECA,503203746,NA,#VALUE!
-Europe & Central Asia (IDA & IBRD countries),TEC,557347922,NA,#VALUE!
-European Union,EUU,625000799,NA,#VALUE!
-Faroe Islands,FRO,NA,"49,290",#VALUE!
-Fiji,FJI,1033915,"912,241",113%
-Finland,FIN,7307800,"5,542,517",132%
-Fragile and conflict affected situations,FCS,276161363,NA,#VALUE!
-France,FRA,69017000,"65,233,271",106%
-French Polynesia,PYF,NA,"285,859",#VALUE!
-Gabon,GAB,2663243,"2,067,561",129%
-"Gambia, The",GMB,NA,"2,163,765",#VALUE!
-Georgia,GEO,5730625,"3,907,131",147%
-Germany,DEU,106000000,"82,293,457",129%
-Ghana,GHA,36751761,"29,463,643",125%
-Gibraltar,GIB,41035,"34,571",119%
-Greece,GRC,12937106,"11,142,161",116%
-Greenland,GRL,NA,"56,239",#VALUE!
-Grenada,GRD,113177,"111,219",102%
-Guam,GUM,NA,"165,718",#VALUE!
-Guatemala,GTM,19986482,"17,005,497",118%
-Guinea,GIN,NA,"13,052,608",#VALUE!
-Guinea-Bissau,GNB,1434822,"1,907,268",75%
-Guyana,GUY,643210,"782,225",82%
-Haiti,HTI,6486549,"10,228,410",63%
-Heavily indebted poor countries (HIPC),HPC,463294144,NA,#VALUE!
-High income,HIC,1554127889,NA,#VALUE!
-Honduras,HND,8233499,"8,304,677",99%
-"Hong Kong SAR, China",HKG,18340347,"7,428,887",247%
-Hungary,HUN,12030940,"9,688,847",124%
-IBRD only,IBD,5158516970,NA,#VALUE!
-Iceland,ISL,410662,"337,780",122%
-IDA & IBRD total,IBT,6272829349,NA,#VALUE!
-IDA blend,IDB,405494557,NA,#VALUE!
-IDA only,IDX,708817822,NA,#VALUE!
-IDA total,IDA,1114312379,NA,#VALUE!
-India,IND,1168902277,"1,354,051,854",86%
-Indonesia,IDN,458923202,"266,794,980",172%
-"Iran, Islamic Rep.",IRN,87106508,"82,011,735",106%
-Iraq,IRQ,33335316,"39,339,753",85%
-Ireland,IRL,4898872,"4,803,748",102%
-Isle of Man,IMN,NA,"84,831",#VALUE!
-Israel,ISR,10540000,"8,452,841",125%
-Italy,ITA,83871543,"59,290,969",141%
-Jamaica,JAM,3091222,"2,970,340",104%
-Japan,JPN,170128499,"127,185,332",134%
-Jordan,JOR,NA,"9,903,802",#VALUE!
-Kazakhstan,KAZ,26473000,"18,403,860",144%
-Kenya,KEN,42815109,"50,950,879",84%
-Kiribati,KIR,46123,"118,414",39%
-"Korea, Dem. People’s Rep.",PRK,NA,"25,610,672",#VALUE!
-"Korea, Rep.",KOR,63658688,"51,164,435",124%
-Kosovo,XKX,NA,"1,895,250",#VALUE!
-Kuwait,KWT,5136384,"4,197,128",122%
-Kyrgyz Republic,KGZ,7369927,"6,132,932",120%
-Lao PDR,LAO,3711813,"6,961,210",53%
-Late-demographic dividend,LTE,2623021796,NA,#VALUE!
-Latin America & Caribbean,LCN,690961697,NA,#VALUE!
-Latin America & Caribbean (excluding high income),LAC,588787713,NA,#VALUE!
-Latin America & the Caribbean (IDA & IBRD countries),TLA,682267182,NA,#VALUE!
-Latvia,LVA,2464122,"1,929,938",128%
-Least developed countries: UN classification,LDC,614065447,NA,#VALUE!
-Lebanon,LBN,NA,"6,093,509",#VALUE!
-Lesotho,LSO,2380804,"2,263,010",105%
-Liberia,LBR,NA,"4,853,516",#VALUE!
-Libya,LBY,NA,"6,470,956",#VALUE!
-Liechtenstein,LIE,46625,"37,922",123%
-Lithuania,LTU,4361329,"2,876,475",152%
-Low & middle income,LMY,6129173785,NA,#VALUE!
-Low income,LIC,363032862,NA,#VALUE!
-Lower middle income,LMC,2902130092,NA,#VALUE!
-Luxembourg,LUX,794000,"590,321",135%
-"Macao SAR, China",MAC,NA,"632,418",#VALUE!
-"Macedonia, FYR",MKD,2121805,"2,085,051",102%
-Madagascar,MDG,8730499,"26,262,810",33%
-Malawi,MWI,7772503,"19,164,728",41%
-Malaysia,MYS,42338500,"32,042,458",132%
-Maldives,MDV,900120,"444,259",203%
-Mali,MLI,NA,"19,107,706",#VALUE!
-Malta,MLT,560010,"432,089",130%
-Marshall Islands,MHL,NA,"53,127",#VALUE!
-Mauritania,MRT,4074157,"4,540,068",90%
-Mauritius,MUS,1839500,"1,268,315",145%
-Mexico,MEX,114326842,"130,222,815",88%
-"Micronesia, Fed. Sts.",FSM,23114,"105,544",22%
-Middle East & North Africa,MEA,441177747,NA,#VALUE!
-Middle East & North Africa (excluding high income),MNA,351681968,NA,#VALUE!
-Middle East & North Africa (IDA & IBRD countries),TMN,347546605,NA,#VALUE!
-Middle income,MIC,5766140923,NA,#VALUE!
-Moldova,MDA,3662968,"4,041,065",91%
-Monaco,MCO,32978,"38,695",85%
-Mongolia,MNG,3886167,"3,121,772",124%
-Montenegro,MNE,1044674,"629,219",166%
-Morocco,MAR,43916066,"36,191,805",121%
-Mozambique,MOZ,11875506,"30,528,673",39%
-Myanmar,MMR,47951228,"53,855,735",89%
-Namibia,NAM,2647853,"2,587,801",102%
-Nauru,NRU,NA,"11,359",#VALUE!
-Nepal,NPL,36096396,"29,624,035",122%
-Netherlands,NLD,20532000,"17,084,459",120%
-New Caledonia,NCL,NA,"279,821",#VALUE!
-New Zealand,NZL,6400000,"4,749,598",135%
-Nicaragua,NIC,8179876,"6,217,796",132%
-Niger,NER,8778884,"22,311,375",39%
-Nigeria,NGA,144920170,"195,875,237",74%
-North America,NAC,427404597,NA,#VALUE!
-Northern Mariana Islands,MNP,NA,NA,#VALUE!
-Norway,NOR,5721255,"5,353,363",107%
-Not classified,INX,NA,NA,#VALUE!
-OECD members,OED,1526049363,NA,#VALUE!
-Oman,OMN,6943910,"4,829,946",144%
-Other small states,OSS,31114875,NA,#VALUE!
-Pacific island small states,PSS,1920710,NA,#VALUE!
-Pakistan,PAK,144525637,"200,813,818",72%
-Palau,PLW,NA,"21,729",#VALUE!
-Panama,PAN,5977641,"4,051,284",148%
-Papua New Guinea,PNG,NA,"8,418,346",#VALUE!
-Paraguay,PRY,7468275,"6,896,908",108%
-Peru,PER,38915386,"32,551,815",120%
-Philippines,PHL,115824982,"106,512,074",109%
-Poland,POL,49828596,"38,104,832",131%
-Portugal,PRT,11764106,"10,291,196",114%
-Post-demographic dividend,PST,1349477951,NA,#VALUE!
-Pre-demographic dividend,PRE,557878862,NA,#VALUE!
-Puerto Rico,PRI,3389402,"3,578,056",95%
-Qatar,QAT,3913809,"2,694,849",145%
-Romania,ROU,22550000,"19,580,634",115%
-Russian Federation,RUS,227341873,"143,964,709",158%
-Rwanda,RWA,8819217,"12,501,156",71%
-Samoa,WSM,124211,"197,695",63%
-San Marino,SMR,38000,"33,400",114%
-Sao Tome and Principe,STP,173646,"208,818",83%
-Saudi Arabia,SAU,40210965,"33,554,343",120%
-Senegal,SEN,15758366,"16,294,270",97%
-Serbia,SRB,8626903,"8,762,027",98%
-Seychelles,SYC,167282,"95,235",176%
-Sierra Leone,SLE,NA,"7,719,729",#VALUE!
-Singapore,SGP,8462800,"5,791,901",146%
-Sint Maarten (Dutch part),SXM,NA,"40,486",#VALUE!
-Slovak Republic,SVK,7117753,"5,449,816",131%
-Slovenia,SVN,2443172,"2,081,260",117%
-Small states,SST,40770766,NA,#VALUE!
-Solomon Islands,SLB,465331,"623,281",75%
-Somalia,SOM,NA,"15,181,925",#VALUE!
-South Africa,ZAF,91878275,"57,398,421",160%
-South Asia,SAS,1548397518,NA,#VALUE!
-South Asia (IDA & IBRD),TSA,1548397518,NA,#VALUE!
-South Sudan,SSD,1511529,"12,919,053",12%
-Spain,ESP,52484655,"46,397,452",113%
-Sri Lanka,LKA,28199083,"20,950,041",135%
-St. Kitts and Nevis,KNA,76878,"52,329",147%
-St. Lucia,LCA,176694,NA,#VALUE!
-St. Martin (French part),MAF,NA,"31,949",#VALUE!
-St. Vincent and the Grenadines,VCT,116161,"102,350",113%
-Sub-Saharan Africa,SSF,726950742,NA,#VALUE!
-Sub-Saharan Africa (excluding high income),SSA,726783460,NA,#VALUE!
-Sub-Saharan Africa (IDA & IBRD countries),TSS,726950742,NA,#VALUE!
-Sudan,SDN,28644139,"41,511,526",69%
-Suriname,SUR,795871,"568,301",140%
-Sweden,SWE,12435709,"9,982,709",125%
-Switzerland,CHE,11292000,"8,544,034",132%
-Syrian Arab Republic,SYR,15650000,"18,284,407",86%
-Tajikistan,TJK,NA,"9,107,211",#VALUE!
-Tanzania,TZA,39953860,"59,091,392",68%
-Thailand,THA,121530000,"69,183,173",176%
-Timor-Leste,TLS,1546624,"1,324,094",117%
-Togo,TGO,6219981,"7,990,926",78%
-Tonga,TON,NA,"109,008",#VALUE!
-Trinidad and Tobago,TTO,2030637,"1,220,479",166%
-Tunisia,TUN,14334080,"11,659,174",123%
-Turkey,TUR,77800170,"81,916,871",95%
-Turkmenistan,TKM,NA,"5,851,466",#VALUE!
-Turks and Caicos Islands,TCA,NA,"51,430",#VALUE!
-Tuvalu,TUV,NA,"11,192",#VALUE!
-Uganda,UGA,24948878,"44,270,563",56%
-Ukraine,UKR,55714733,"44,009,214",127%
-United Arab Emirates,ARE,19826224,"9,541,615",208%
-United Kingdom,GBR,79173658,"66,573,504",119%
-United States,USA,395881000,"326,474,013",121%
-Upper middle income,UMC,2864010831,NA,#VALUE!
-Uruguay,URY,5097569,"3,469,551",147%
-Uzbekistan,UZB,24265460,"32,364,996",75%
-Vanuatu,VUT,228016,"282,117",81%
-"Venezuela, RB",VEN,24493687,"32,381,221",76%
-Vietnam,VNM,120016181,"96,491,146",124%
-Virgin Islands (U.S.),VIR,NA,NA,#VALUE!
-West Bank and Gaza,PSE,4135363,NA,#VALUE!
-WORLD,WLD,7683301674,"7,634,758,428",101%
-"Yemen, Rep.",YEM,NA,"28,915,284",#VALUE!
-Zambia,ZMB,13438539,"17,609,178",76%
-Zimbabwe,ZWE,14092104,"16,913,261",83%
+"""Country Name""","""Country Code""","""Number of mobile cellular subscriptions in 2017""", Population in 2018 ,Percentage of mobile subsriptions to population
+Aruba,ABW,NA," 113,648.00 ",NA
+Afghanistan,AFG,23929713," 36,373,176.00 ",66%
+Albania,ALB,3497950," 2,934,363.00 ",119%
+Algeria,DZA,49873389," 42,008,054.00 ",119%
+American Samoa,ASM,NA," 55,641.00 ",NA
+Andorra,AND,80337," 76,965.00 ",104%
+Angola,AGO,13323952," 30,774,205.00 ",43%
+Antigua and Barbuda,ATG,NA," 93,581.00 ",NA
+Arab World,ARB,376136393, NA ,NA
+Argentina,ARG,61897379," 44,688,864.00 ",139%
+Armenia,ARM,3488524," 2,934,152.00 ",119%
+Australia,AUS,27553000," 24,772,247.00 ",111%
+Austria,AUT,14924340," 8,751,820.00 ",171%
+Azerbaijan,AZE,10127000," 9,923,914.00 ",102%
+"Bahamas, The",BHS,353540," 392,712.00 ",90%
+Bahrain,BHR,2364477," 1,566,993.00 ",151%
+Bangladesh,BGD,145113669," 166,368,149.00 ",87%
+Barbados,BRB,337791," 291,495.00 ",116%
+Belarus,BLR,11415141," 9,452,113.00 ",121%
+Belgium,BEL,11961089," 11,498,519.00 ",104%
+Belize,BLZ,NA," 374,651.00 ",NA
+Benin,BEN,8773044," 11,458,674.00 ",77%
+Bermuda,BMU,64997," 61,352.00 ",106%
+Bhutan,BTN,730623," 817,054.00 ",89%
+Bolivia,BOL,10963224," 11,215,674.00 ",98%
+Bosnia and Herzegovina,BIH,3440085," 3,503,554.00 ",98%
+Botswana,BWA,3240589," 2,333,201.00 ",139%
+Brazil,BRA,236488548," 210,867,954.00 ",112%
+British Virgin Islands,VGB,NA," 34,232.00 ",NA
+Brunei Darussalam,BRN,544732," 434,076.00 ",125%
+Bulgaria,BGR,8532908," 7,036,848.00 ",121%
+Burkina Faso,BFA,17946375," 19,751,651.00 ",91%
+Burundi,BDI,5920612," 11,216,450.00 ",53%
+Cabo Verde,CPV,612259," 553,335.00 ",111%
+Cambodia,KHM,18572973," 16,245,729.00 ",114%
+Cameroon,CMR,19706027," 24,678,234.00 ",80%
+Canada,CAN,31458600," 36,626,083.00 ",86%
+Caribbean small states,CSS,7735181, NA ,NA
+Cayman Islands,CYM,NA," 57,268.00 ",NA
+Central African Republic,CAF,NA," 4,737,423.00 ",NA
+Central Europe and the Baltics,CEB,128183762, NA ,NA
+Chad,TCD,NA," 15,353,184.00 ",NA
+Channel Islands,CHI,NA, NA ,NA
+Chile,CHL,23013147," 18,197,209.00 ",126%
+China,CHN,1474097000," 1,415,045,928.00 ",104%
+Colombia,COL,62222011," 49,464,683.00 ",126%
+Comoros,COM,446868," 832,347.00 ",54%
+"Congo, Dem. Rep.",COD,35270156," 84,004,989.00 ",42%
+"Congo, Rep.",COG,5056000," 5,399,895.00 ",94%
+Costa Rica,CRI,8840342," 4,905,626.00 ",180%
+Cote d'Ivoire,CIV,31747233," 24,905,843.00 ",127%
+Croatia,HRV,4315580," 4,164,783.00 ",104%
+Cuba,CUB,4613782," 11,014,425.00 ",42%
+Curacao,CUW,NA," 149,035.00 ",NA
+Cyprus,CYP,1176801," 1,189,085.00 ",99%
+Czech Republic,CZE,12634937," 10,625,250.00 ",119%
+Denmark,DNK,6978348," 5,754,356.00 ",121%
+Djibouti,DJI,373052," 971,408.00 ",38%
+Dominica,DMA,NA," 73,757.00 ",NA
+Dominican Republic,DOM,8769127," 10,606,865.00 ",83%
+Early-demographic dividend,EAR,3123591161, NA ,NA
+East Asia & Pacific,EAS,2734184854, NA ,NA
+East Asia & Pacific (excluding high income),EAP,2410319380, NA ,NA
+East Asia & Pacific (IDA & IBRD countries),TEA,2410319380, NA ,NA
+Ecuador,ECU,13881562," 16,863,425.00 ",82%
+"Egypt, Arab Rep.",EGY,102958194," 99,375,741.00 ",104%
+El Salvador,SLV,9982186," 6,167,147.00 ",162%
+Equatorial Guinea,GNQ,NA," 1,313,894.00 ",NA
+Eritrea,ERI,NA," 5,187,948.00 ",NA
+Estonia,EST,1904425," 1,306,788.00 ",146%
+Eswatini,SWZ,NA, NA ,NA
+Ethiopia,ETH,62617000," 107,534,882.00 ",58%
+Euro area,EMU,416520123, NA ,NA
+Europe & Central Asia,ECS,1114224519, NA ,NA
+Europe & Central Asia (excluding high income),ECA,503203746, NA ,NA
+Europe & Central Asia (IDA & IBRD countries),TEC,557347922, NA ,NA
+European Union,EUU,625000799, NA ,NA
+Faroe Islands,FRO,NA," 49,290.00 ",NA
+Fiji,FJI,1033915," 912,241.00 ",113%
+Finland,FIN,7307800," 5,542,517.00 ",132%
+Fragile and conflict affected situations,FCS,276161363, NA ,NA
+France,FRA,69017000," 65,233,271.00 ",106%
+French Polynesia,PYF,NA," 285,859.00 ",NA
+Gabon,GAB,2663243," 2,067,561.00 ",129%
+"Gambia, The",GMB,NA," 2,163,765.00 ",NA
+Georgia,GEO,5730625," 3,907,131.00 ",147%
+Germany,DEU,106000000," 82,293,457.00 ",129%
+Ghana,GHA,36751761," 29,463,643.00 ",125%
+Gibraltar,GIB,41035," 34,571.00 ",119%
+Greece,GRC,12937106," 11,142,161.00 ",116%
+Greenland,GRL,NA," 56,239.00 ",NA
+Grenada,GRD,113177," 111,219.00 ",102%
+Guam,GUM,NA," 165,718.00 ",NA
+Guatemala,GTM,19986482," 17,005,497.00 ",118%
+Guinea,GIN,NA," 13,052,608.00 ",NA
+Guinea-Bissau,GNB,1434822," 1,907,268.00 ",75%
+Guyana,GUY,643210," 782,225.00 ",82%
+Haiti,HTI,6486549," 10,228,410.00 ",63%
+Heavily indebted poor countries (HIPC),HPC,463294144, NA ,NA
+High income,HIC,1554127889, NA ,NA
+Honduras,HND,8233499," 8,304,677.00 ",99%
+"Hong Kong SAR, China",HKG,18340347," 7,428,887.00 ",247%
+Hungary,HUN,12030940," 9,688,847.00 ",124%
+IBRD only,IBD,5158516970, NA ,NA
+Iceland,ISL,410662," 337,780.00 ",122%
+IDA & IBRD total,IBT,6272829349, NA ,NA
+IDA blend,IDB,405494557, NA ,NA
+IDA only,IDX,708817822, NA ,NA
+IDA total,IDA,1114312379, NA ,NA
+India,IND,1168902277," 1,354,051,854.00 ",86%
+Indonesia,IDN,458923202," 266,794,980.00 ",172%
+"Iran, Islamic Rep.",IRN,87106508," 82,011,735.00 ",106%
+Iraq,IRQ,33335316," 39,339,753.00 ",85%
+Ireland,IRL,4898872," 4,803,748.00 ",102%
+Isle of Man,IMN,NA," 84,831.00 ",NA
+Israel,ISR,10540000," 8,452,841.00 ",125%
+Italy,ITA,83871543," 59,290,969.00 ",141%
+Jamaica,JAM,3091222," 2,970,340.00 ",104%
+Japan,JPN,170128499," 127,185,332.00 ",134%
+Jordan,JOR,NA," 9,903,802.00 ",NA
+Kazakhstan,KAZ,26473000," 18,403,860.00 ",144%
+Kenya,KEN,42815109," 50,950,879.00 ",84%
+Kiribati,KIR,46123," 118,414.00 ",39%
+"Korea, Dem. People’s Rep.",PRK,NA," 25,610,672.00 ",NA
+"Korea, Rep.",KOR,63658688," 51,164,435.00 ",124%
+Kosovo,XKX,NA," 1,895,250.00 ",NA
+Kuwait,KWT,5136384," 4,197,128.00 ",122%
+Kyrgyz Republic,KGZ,7369927," 6,132,932.00 ",120%
+Lao PDR,LAO,3711813," 6,961,210.00 ",53%
+Late-demographic dividend,LTE,2623021796, NA ,NA
+Latin America & Caribbean,LCN,690961697, NA ,NA
+Latin America & Caribbean (excluding high income),LAC,588787713, NA ,NA
+Latin America & the Caribbean (IDA & IBRD countries),TLA,682267182, NA ,NA
+Latvia,LVA,2464122," 1,929,938.00 ",128%
+Least developed countries: UN classification,LDC,614065447, NA ,NA
+Lebanon,LBN,NA," 6,093,509.00 ",NA
+Lesotho,LSO,2380804," 2,263,010.00 ",105%
+Liberia,LBR,NA," 4,853,516.00 ",NA
+Libya,LBY,NA," 6,470,956.00 ",NA
+Liechtenstein,LIE,46625," 37,922.00 ",123%
+Lithuania,LTU,4361329," 2,876,475.00 ",152%
+Low & middle income,LMY,6129173785, NA ,NA
+Low income,LIC,363032862, NA ,NA
+Lower middle income,LMC,2902130092, NA ,NA
+Luxembourg,LUX,794000," 590,321.00 ",135%
+"Macao SAR, China",MAC,NA," 632,418.00 ",NA
+"Macedonia, FYR",MKD,2121805," 2,085,051.00 ",102%
+Madagascar,MDG,8730499," 26,262,810.00 ",33%
+Malawi,MWI,7772503," 19,164,728.00 ",41%
+Malaysia,MYS,42338500," 32,042,458.00 ",132%
+Maldives,MDV,900120," 444,259.00 ",203%
+Mali,MLI,NA," 19,107,706.00 ",NA
+Malta,MLT,560010," 432,089.00 ",130%
+Marshall Islands,MHL,NA," 53,127.00 ",NA
+Mauritania,MRT,4074157," 4,540,068.00 ",90%
+Mauritius,MUS,1839500," 1,268,315.00 ",145%
+Mexico,MEX,114326842," 130,222,815.00 ",88%
+"Micronesia, Fed. Sts.",FSM,23114," 105,544.00 ",22%
+Middle East & North Africa,MEA,441177747, NA ,NA
+Middle East & North Africa (excluding high income),MNA,351681968, NA ,NA
+Middle East & North Africa (IDA & IBRD countries),TMN,347546605, NA ,NA
+Middle income,MIC,5766140923, NA ,NA
+Moldova,MDA,3662968," 4,041,065.00 ",91%
+Monaco,MCO,32978," 38,695.00 ",85%
+Mongolia,MNG,3886167," 3,121,772.00 ",124%
+Montenegro,MNE,1044674," 629,219.00 ",166%
+Morocco,MAR,43916066," 36,191,805.00 ",121%
+Mozambique,MOZ,11875506," 30,528,673.00 ",39%
+Myanmar,MMR,47951228," 53,855,735.00 ",89%
+Namibia,NAM,2647853," 2,587,801.00 ",102%
+Nauru,NRU,NA," 11,359.00 ",NA
+Nepal,NPL,36096396," 29,624,035.00 ",122%
+Netherlands,NLD,20532000," 17,084,459.00 ",120%
+New Caledonia,NCL,NA," 279,821.00 ",NA
+New Zealand,NZL,6400000," 4,749,598.00 ",135%
+Nicaragua,NIC,8179876," 6,217,796.00 ",132%
+Niger,NER,8778884," 22,311,375.00 ",39%
+Nigeria,NGA,144920170," 195,875,237.00 ",74%
+North America,NAC,427404597, NA ,NA
+Northern Mariana Islands,MNP,NA, NA ,NA
+Norway,NOR,5721255," 5,353,363.00 ",107%
+Not classified,INX,NA, NA ,NA
+OECD members,OED,1526049363, NA ,NA
+Oman,OMN,6943910," 4,829,946.00 ",144%
+Other small states,OSS,31114875, NA ,NA
+Pacific island small states,PSS,1920710, NA ,NA
+Pakistan,PAK,144525637," 200,813,818.00 ",72%
+Palau,PLW,NA," 21,729.00 ",NA
+Panama,PAN,5977641," 4,051,284.00 ",148%
+Papua New Guinea,PNG,NA," 8,418,346.00 ",NA
+Paraguay,PRY,7468275," 6,896,908.00 ",108%
+Peru,PER,38915386," 32,551,815.00 ",120%
+Philippines,PHL,115824982," 106,512,074.00 ",109%
+Poland,POL,49828596," 38,104,832.00 ",131%
+Portugal,PRT,11764106," 10,291,196.00 ",114%
+Post-demographic dividend,PST,1349477951, NA ,NA
+Pre-demographic dividend,PRE,557878862, NA ,NA
+Puerto Rico,PRI,3389402," 3,578,056.00 ",95%
+Qatar,QAT,3913809," 2,694,849.00 ",145%
+Romania,ROU,22550000," 19,580,634.00 ",115%
+Russian Federation,RUS,227341873," 143,964,709.00 ",158%
+Rwanda,RWA,8819217," 12,501,156.00 ",71%
+Samoa,WSM,124211," 197,695.00 ",63%
+San Marino,SMR,38000," 33,400.00 ",114%
+Sao Tome and Principe,STP,173646," 208,818.00 ",83%
+Saudi Arabia,SAU,40210965," 33,554,343.00 ",120%
+Senegal,SEN,15758366," 16,294,270.00 ",97%
+Serbia,SRB,8626903," 8,762,027.00 ",98%
+Seychelles,SYC,167282," 95,235.00 ",176%
+Sierra Leone,SLE,NA," 7,719,729.00 ",NA
+Singapore,SGP,8462800," 5,791,901.00 ",146%
+Sint Maarten (Dutch part),SXM,NA," 40,486.00 ",NA
+Slovak Republic,SVK,7117753," 5,449,816.00 ",131%
+Slovenia,SVN,2443172," 2,081,260.00 ",117%
+Small states,SST,40770766, NA ,NA
+Solomon Islands,SLB,465331," 623,281.00 ",75%
+Somalia,SOM,NA," 15,181,925.00 ",NA
+South Africa,ZAF,91878275," 57,398,421.00 ",160%
+South Asia,SAS,1548397518, NA ,NA
+South Asia (IDA & IBRD),TSA,1548397518, NA ,NA
+South Sudan,SSD,1511529," 12,919,053.00 ",12%
+Spain,ESP,52484655," 46,397,452.00 ",113%
+Sri Lanka,LKA,28199083," 20,950,041.00 ",135%
+St. Kitts and Nevis,KNA,76878," 52,329.00 ",147%
+St. Lucia,LCA,176694, NA ,NA
+St. Martin (French part),MAF,NA," 31,949.00 ",NA
+St. Vincent and the Grenadines,VCT,116161," 102,350.00 ",113%
+Sub-Saharan Africa,SSF,726950742, NA ,NA
+Sub-Saharan Africa (excluding high income),SSA,726783460, NA ,NA
+Sub-Saharan Africa (IDA & IBRD countries),TSS,726950742, NA ,NA
+Sudan,SDN,28644139," 41,511,526.00 ",69%
+Suriname,SUR,795871," 568,301.00 ",140%
+Sweden,SWE,12435709," 9,982,709.00 ",125%
+Switzerland,CHE,11292000," 8,544,034.00 ",132%
+Syrian Arab Republic,SYR,15650000," 18,284,407.00 ",86%
+Tajikistan,TJK,NA," 9,107,211.00 ",NA
+Tanzania,TZA,39953860," 59,091,392.00 ",68%
+Thailand,THA,121530000," 69,183,173.00 ",176%
+Timor-Leste,TLS,1546624," 1,324,094.00 ",117%
+Togo,TGO,6219981," 7,990,926.00 ",78%
+Tonga,TON,NA," 109,008.00 ",NA
+Trinidad and Tobago,TTO,2030637," 1,220,479.00 ",166%
+Tunisia,TUN,14334080," 11,659,174.00 ",123%
+Turkey,TUR,77800170," 81,916,871.00 ",95%
+Turkmenistan,TKM,NA," 5,851,466.00 ",NA
+Turks and Caicos Islands,TCA,NA," 51,430.00 ",NA
+Tuvalu,TUV,NA," 11,192.00 ",NA
+Uganda,UGA,24948878," 44,270,563.00 ",56%
+Ukraine,UKR,55714733," 44,009,214.00 ",127%
+United Arab Emirates,ARE,19826224," 9,541,615.00 ",208%
+United Kingdom,GBR,79173658," 66,573,504.00 ",119%
+United States,USA,395881000," 326,474,013.00 ",121%
+Upper middle income,UMC,2864010831, NA ,NA
+Uruguay,URY,5097569," 3,469,551.00 ",147%
+Uzbekistan,UZB,24265460," 32,364,996.00 ",75%
+Vanuatu,VUT,228016," 282,117.00 ",81%
+"Venezuela, RB",VEN,24493687," 32,381,221.00 ",76%
+Vietnam,VNM,120016181," 96,491,146.00 ",124%
+Virgin Islands (U.S.),VIR,NA, NA ,NA
+West Bank and Gaza,PSE,4135363, NA ,NA
+WORLD,WLD,7683301674," 7,634,758,428.00 ",101%
+"Yemen, Rep.",YEM,NA," 28,915,284.00 ",NA
+Zambia,ZMB,13438539," 17,609,178.00 ",76%
+Zimbabwe,ZWE,14092104," 16,913,261.00 ",83%
