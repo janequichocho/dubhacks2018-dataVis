@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="drawer">
-
+            <div id="bar-chart"></div>
         </div>
 
         <div id="tooltip-container"></div>
@@ -32,6 +32,8 @@
         d3.csv("data/internet-users.csv", function(err, data) {
             d3.csv("data/mobile-phones.csv", function(err2, data2) {
 
+
+                //console.log(data2[0]);
             var config = {"data0":"Country","data1":"Penetration",
                         "label0":"label 0","label1":"label 1","color0":"#99ccff","color1":"#0050A1",
                         "width":800,"height":800};
@@ -142,6 +144,13 @@
             data.forEach(function(d) {
             valueHash[d[MAP_KEY]] = +parseFloat(d[MAP_VALUE]);
             });
+
+            var valueHash2 = {};
+            data2.forEach(function(d2) {
+                valueHash2[d2["Country Name"]] = +d2["Number of mobile cellular subscriptions in 2017"];
+            });
+
+            console.log(valueHash2);
             
             var quantize = d3.scale.quantize()
                 .domain([0, 1.0])
@@ -191,9 +200,13 @@
                     html += "<h4 class=\"tooltip_key\">";
                     html += d.properties.name;
                     html += "</h4>";
-                    html += "<p class=\"tooltip_value\">";
+                    html += "<p class=\"tooltip_value\">Internet Access %: ";
                     html += (valueHash[d.properties.name] ? valueFormat(valueHash[d.properties.name]) : "");
                     html += "%";
+                    html += "</p>";
+                    html += "<p class=\"tooltip_value\">Mobile Access %: ";
+                    html += (valueHash2[d.properties.name] ? valueFormat(valueHash2[d.properties.name]) : "");
+                    html += "";
                     html += "</p>";
                     html += "</div>";
                     
@@ -221,7 +234,6 @@
                         $("#tooltip-container").hide();
                 })
                 .on("click", function(d) {
-
                     myMove();
                 });
 
@@ -252,8 +264,79 @@
             });
             
             d3.select(self.frameElement).style("height", (height * 2.3 / 3) + "px");
-        });
-        });
+
+
+            // BAR CHART
+
+            var margin = {top: 20, right: 20, bottom: 70, left: 40},
+                width = 200,
+                height = 200;
+
+            // Parse the date / time
+            var	parseDate = d3.time.format("%Y-%m").parse;
+
+            var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
+
+            var y = d3.scale.linear().range([height, 0]);
+
+            var xAxis = d3.svg.axis()
+                .scale(x)
+                .orient("bottom")
+                .tickFormat(d3.time.format("%Y-%m"));
+
+            var yAxis = d3.svg.axis()
+                .scale(y)
+                .orient("left")
+                .ticks(10);
+
+            var svg2 = d3.select("#bar-chart").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+                .attr("transform", 
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            d3.csv("bar-data.csv", function(error, data) {
+
+                data.forEach(function(d) {
+                    d.date = parseDate(d.date);
+                    d.value = +d.value;
+                });
+                
+            x.domain(data.map(function(d) { return d.date; }));
+            y.domain([0, d3.max(data, function(d) { return d.value; })]);
+
+            svg2.append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(xAxis)
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", "-.55em")
+                .attr("transform", "rotate(-90)" );
+
+            svg2.append("g")
+                .attr("class", "y axis")
+                .call(yAxis)
+                .append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", ".71em")
+                .style("text-anchor", "end")
+                .text("Value ($)");
+
+            svg2.selectAll("bar")
+                .data(data)
+                .enter().append("rect")
+                .style("fill", "steelblue")
+                .attr("x", function(d) { return x(d.date); })
+                .attr("width", x.rangeBand())
+                .attr("y", function(d) { return y(d.value); })
+                .attr("height", function(d) { return height - y(d.value); });
+            });            
+            });
+            });
         </script>
     </body>
 

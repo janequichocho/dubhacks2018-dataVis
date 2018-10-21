@@ -1,4 +1,4 @@
-"""Country Name""","""Country Code""","""Number of mobile cellular subscriptions in 2017""", Population in 2018 ,Percentage of mobile subsriptions to population
+Country Name,"""Country Code""",Number of mobile cellular subscriptions in 2017, Population in 2018 ,Percentage of mobile subsriptions to population
 Aruba,ABW,NA," 113,648.00 ",NA
 Afghanistan,AFG,23929713," 36,373,176.00 ",66%
 Albania,ALB,3497950," 2,934,363.00 ",119%
@@ -122,7 +122,7 @@ Jordan,JOR,NA," 9,903,802.00 ",NA
 Kazakhstan,KAZ,26473000," 18,403,860.00 ",144%
 Kenya,KEN,42815109," 50,950,879.00 ",84%
 Kiribati,KIR,46123," 118,414.00 ",39%
-"Korea, Dem. People’s Rep.",PRK,NA," 25,610,672.00 ",NA
+"Korea, Dem. Peopleï¿½s Rep.",PRK,NA," 25,610,672.00 ",NA
 "Korea, Rep.",KOR,63658688," 51,164,435.00 ",124%
 Kosovo,XKX,NA," 1,895,250.00 ",NA
 Kuwait,KWT,5136384," 4,197,128.00 ",122%
