@@ -191,9 +191,9 @@
                     html += "<h4 class=\"tooltip_key\">";
                     html += d.properties.name;
                     html += "</h4>";
-                    html += "<p class=\"tooltip_value\">% of internet users: ";
+                    html += "<p class=\"tooltip_value\">";
                     html += (valueHash[d.properties.name] ? valueFormat(valueHash[d.properties.name]) : "");
-                    html += "";
+                    html += "%";
                     html += "</p>";
                     html += "</div>";
                     
@@ -221,18 +221,23 @@
                         $("#tooltip-container").hide();
                 })
                 .on("click", function(d) {
+
                     myMove();
                 });
 
                 function myMove() {
+                    console.log(document.getElementsByTagName("body")[0].offsetWidth);
                     var elem = document.getElementById("drawer");   
-                    var pos = -300;
+                    var pos = document.getElementsByTagName("body")[0].offsetWidth;
                     var id = setInterval(frame, 0.3);
+                    elem.style.right = -300;
                     function frame() {
-                        if (pos == 0) {
-                        clearInterval(id);
+                        console.log("frame");
+                        if (pos == document.getElementsByTagName("body")[0].offsetWidth - 300) {
+                            clearInterval(id);
                         } else {
-                            pos++; 
+                            pos--; 
+                            console.log(pos);
                             elem.style.left = pos + 'px'; 
                         }
                     }
